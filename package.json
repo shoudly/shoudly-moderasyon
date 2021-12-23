@@ -1,0 +1,23 @@
+{
+  "name": "discord-essentia",
+  "version": "0.0.1",
+  "description": "Essentia Bot.",
+  "main": "shoudly.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^5.13.13",
+    "ms": "^2.1.3"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "devDependencies": {
+    "eslint": "^7.17.0"
+  }
+}
